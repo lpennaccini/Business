@@ -1,0 +1,6 @@
+@media (min-width: 768px){
+    header {
+        
+        z-index: 10 !important;
+    }
+}
